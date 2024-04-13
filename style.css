@@ -75,7 +75,7 @@ a{
 @media (min-width:250px) and (max-width:745px){
 
     body{
-        background: yellow;
+        background: rgb(110, 184, 187);
     }
 
     .header {
